@@ -8,7 +8,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(50, 125, 195);
+    background-image: url(https://assets.website-files.com/5d315dd990eed30aa7ca5f8f/5d3d843acb7dfd63bcf37e29_tree-and-woodland-company-landscape.jpg);
+    background-size: cover;
 }
 .profile {
     width: 80px;
@@ -16,7 +17,8 @@ body {
     border-radius: 50%;
 }
 .bg-img {
-    background-image: url(https://kaleidousercontent.com/removebg/designs/4621cf76-fb41-4177-bc33-f12a67816592/thumbnail_image/change-background-thumbnail.png);
+    background-image: url(https://askmultiply.com/wp-content/uploads/2020/04/landscape-mountains-sky-4843193.jpg);
+    background-size: cover;
     width: 400px;
     height: 400px;
 }
