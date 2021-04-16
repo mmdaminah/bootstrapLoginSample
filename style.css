@@ -6,8 +6,9 @@ html , body {
 }
 body {
     display: flex;
+    justify-content: center;
     align-items: center;
-    background-color: rgb(50, 50, 195);
+    background-color: rgb(50, 125, 195);
 }
 .profile {
     width: 80px;
